@@ -10,7 +10,7 @@
     <property name="debuglevel" value="source,lines,vars"/>
     <property name="target" value="1.8"/>
     <property name="source" value="1.8"/>
-	<property name="junit.output.dir" value="junit.ouput"/>
+	<property name="junit.output.dir" value="test-report"/>
     <path id="JUnit 4.libraryclasspath">
         <pathelement location="${ECLIPSE_HOME}plugins/org.junit_4.13.2.v20211018-1956.jar"/>
         <pathelement location="${ECLIPSE_HOME}plugins/org.hamcrest.core_1.3.0.v20180420-1519.jar"/>
